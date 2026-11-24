@@ -1,0 +1,1 @@
+<section><h2>Dashboard</h2><p>Aplikasi pengelolaan data barang hasil pengembangan CRUD Praktikum 8 menjadi PHP Modular.</p><a class="button" href="index.php?page=user/list">Buka Data Barang</a></section>
